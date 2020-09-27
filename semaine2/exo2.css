@@ -1,1 +1,21 @@
-git --
+.carre1 {
+    background-color: brown;
+}
+
+.carre2 {
+    background-color: green;
+}
+
+.carre3 {
+    background-color: blue;
+}
+
+.carre4 {
+    background-color: yellow;
+}
+
+.bloc{
+    width: 150px;
+    height: 150px;
+    margin: 15px;
+}
