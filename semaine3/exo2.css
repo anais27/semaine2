@@ -1,0 +1,41 @@
+article{
+    width:24%;
+    display: inline-block
+}
+
+
+
+@media screen and (max-width: 800px) {
+
+    article{
+        width: 40%;
+        
+    }
+
+   
+
+}
+
+@media screen and (max-width: 650px) {
+
+    article{
+        display: block;
+    }
+
+   
+
+}
+
+.titre2 {
+    color: blueviolet;
+    text-decoration: underline;
+}
+
+.button {
+    background-color: red;
+    color: white;
+    font-weight: bold;
+}
+img {
+    width: 90%;
+}
